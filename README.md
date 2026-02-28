@@ -51,10 +51,10 @@ python main.py
 ## Visualizations
 
 ### Expense Distribution
-![category_wise_expenses_SET](expense_chart.png)
+![category_wise_expenses_SET.png](expense_chart.png)
 
 ### Monthly Spending
-![monthly_expense_trend_SET](monthly_spending.png)
+![monthly_expense_trend_SET.png](monthly_spending.png)
 
 ## Future Improvements
 
