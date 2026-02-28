@@ -48,6 +48,14 @@ pip install pandas matplotlib
 
 python main.py
 
+## Visualizations
+
+### Expense Distribution
+![category_wise_expenses_SET](expense_chart.png)
+
+### Monthly Spending
+![monthly_expense_trend_SET](monthly_spending.png)
+
 ## Future Improvements
 
 - Add GUI interface
